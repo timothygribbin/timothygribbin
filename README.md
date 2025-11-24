@@ -12,7 +12,7 @@ Some technologies and tools I'm comfortable using are Git, MySQL, Docker, Postma
 
 # Featured Projects
 
-The project I'm most proud of is PITSTOP, a one-stop-shop for planning a trip collaboratively. This is a solo venture and I'm the only contributor. My application eliminates the need for messy groupchats and awkward conversations about splitting expenses or what music to listen to. All of the stops along the way and music you listen to is voted on by all members of the trip, expenses are also tracked in app. This application will be deployed soon and you will be easily able to view an use it. Stay tuned!
+The project I'm most proud of is PITSTOP, a one-stop-shop for planning a trip collaboratively. This is a solo venture and I'm the only contributor. My application eliminates the need for messy groupchats and awkward conversations about splitting expenses or what music to listen to. All of the stops along the way and music you listen to is voted on by all members of the trip, expenses are also tracked in app. This application will be deployed soon and you will be easily able to view and use it. Stay tuned!
 
 Another project I have worked on are an Signature Forgery Detection ML model. This was presented at the SUNY Undergraduate Research Conference in Binghamton, NY in April 2025. This model was built using a convolutional neural netwrok (CNN) from TensorFlow. The data was organized using Numpy. This model achieved a 91% validation accuracy for detecting a forged signature. This research project was completed under the advisement of Professor Bin Li. 
 
