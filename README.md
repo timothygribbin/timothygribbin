@@ -8,7 +8,7 @@ I would say Java is the programming language that I have used the most and I'm m
 
 I'm comfortable working with frameworks & libraries such as Node.js, React.js, Next.js, Vite, Numpy, Pandas, matplotlib, scikit-learn, and TensorFlow.
 
-Some technologies and tools I'm comfortable using are Git, MySQL, Docker, Postman, Jupyter Notebook, Eclipse, MongoDB, Firebase, and Supabase
+Some technologies and tools I'm comfortable using are Git, MySQL, Postman, Jupyter Notebook, Eclipse, VS Code, Firebase, and Supabase
 
 # Featured Projects
 
@@ -19,6 +19,7 @@ Another project I have worked on are an Signature Forgery Detection ML model. Th
 Lastly, I am very proud of winning the HopperHacks Hackathon with our project cleverly named HopperHelps. HopperHelps is a journaling application that keeps track of your mood over extended periods. This application uses AI sentiment analysis to figure out what you are feeling based off of your journal entries and color codes your calender on that specific day. Eventually, you will see a pattern of your moods on certain days, maybe you have a bad day every day on Thursday and you can address the stressors that may be contributing to that. In a world where mental health often gets put on the back burner in exchange for grades or career advancement, HopperHelps gives you an easy way to take a few minutes and keep track of your mood and feelings over long periods of times. This project was built with 3 classmates in the span of 24 hours. 
 
 You will also be able to find a few smaller projects that I just made for personal fun, such as my Roulette game and UFC fighter guessing game.
+
 # Personal Interests
 
 In my free time, I'm a die hard MMA fan, love to play chess, and I'm a blue belt in brazilian jiu jitsu. I'm also a Yankees and Jets fan. 
