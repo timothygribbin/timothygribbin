@@ -4,9 +4,9 @@ Hello! My name is Timothy Gribbin and I'm a computer science student at Northeas
 
 # Languages and Technologies
 
-I would say Java is the programming language that I have used the most and I'm most comfortable with. I'm also proficient in Python, and have some limited experience in Typescript/Javascript.
+Java is the programming language that I have used the most and I'm most comfortable with. I'm also proficient in Python, and have some limited experience in Typescript/Javascript.
 
-I'm comfortable working with frameworks & libraries such as Numpy, Pandas, matplotlib, scikit-learn, and TensorFlow.
+I'm comfortable working with frameworks & libraries such as Numpy, Pandas, matplotlib,a nd TensorFlow, and some Node.js/Next.js.
 
 Some technologies and tools I'm comfortable using are Git, MySQL, Postman, Jupyter Notebook, Eclipse, VS Code, Firebase, and Supabase
 
